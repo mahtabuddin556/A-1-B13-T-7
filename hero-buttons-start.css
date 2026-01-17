@@ -1,7 +1,23 @@
 #hero button{
 
-    background-color:green;
+    
     padding: 12px;
+    border-radius: 8px;
+
     
 
+}
+
+
+.btn1{background-color:#30B868;
+    cursor: pointer;
+}
+.btn2{
+    cursor: pointer;
+
+
+    background-color: transparent;
+}
+.btn1 :hover{
+    color:black
 }

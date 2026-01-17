@@ -1,3 +1,18 @@
 .text{color: azure;
+    max-resolution: 0 auto;
     
 }
+.early{
+    background-color: white;
+    border-radius: 999px;
+    padding: 10px 1px;
+    display:inline-block;
+    font-size: 20px;
+    
+
+    
+}.early p{
+color:#30B868;
+}
+
+

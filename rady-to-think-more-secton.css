@@ -2,6 +2,37 @@
      
     justify-content: center;
     width: 500px;
-    margin: 0 auto;
+    margin: 0 auto; max-width: 700px;
+  
+  padding: 80px 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
     
+}
+#rady-to-think-more-secton p{
+    opacity: 80%;
+   
+}
+#rady-to-think-more-secton button{
+    background: #117239;
+  color: #fff;
+  border: none;
+  padding: 12px 22px;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+
+    
+}
+#rady-to-think-more-section{
+
+text-align: justify;
+
+
+
+
+
 }
