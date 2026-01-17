@@ -1,0 +1,21 @@
+#footer{
+    background-color: #001931;
+
+  padding: 40px 80px 20px;
+
+}.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-bottom: 25px;}
+
+
+  .footer-content .left img {
+  width: 120px;}
+
+  .copyright{ 
+    text-align: center;
+    margin: 0 auto;
+
+  }

@@ -5,6 +5,11 @@
   background-repeat: no-repeat;
    width: 100%;
    aspect-ratio: 16 / 9;
+   border: #30B868;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
 
    
 }

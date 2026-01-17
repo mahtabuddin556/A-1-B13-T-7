@@ -1,0 +1,16 @@
+#your-second-brain-section{
+    display: flex;
+    justify-content: center;
+    gap: 50px;width: 750px;
+    margin: 0 auto;
+    border: 10px;
+
+}
+#your-second-brain-section img{
+    flex: 1;
+}
+
+.content-right {opacity: 70%;
+    flex: 1;
+
+}

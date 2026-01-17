@@ -1,3 +1,52 @@
 #nots-dont-fail-section{
     text-align: center;
+    
+}#nots-dont-fail-section p{
+  padding: 0 10px 15px;
+  margin: 0;
+  font-size: 14px;
+  color: #555;
+
+}
+#card-cointainer{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 80px;
+     display: flex;
+  gap: 20px;
+  
+
+}
+#card-cointainer img{
+    height: 24px;
+    width: 24px;
+    margin: 0 auto;
+     border-radius: 10px;
+     background-color: rgb(204, 26, 62);
+     
+}
+.card{display: flex;
+    justify-items:center;
+  padding: 0 10px 15px;
+  margin: 0 auto;
+  flex-direction: column;
+  font-size: 14px;
+  color:black;
+   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 10px; background: #fff;
+  gap: 20px;}
+  
+  
+ .card p {
+  padding: 0 10px 15px;
+  margin: 0;
+  font-size: 14px;
+  color: #555; 
+  
+}
+
+.card h3 {
+  padding: 10px;
+  margin: 0;
 }
