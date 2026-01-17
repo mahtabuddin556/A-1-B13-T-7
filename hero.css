@@ -6,12 +6,15 @@
     background-color: white;
     border-radius: 999px;
     padding: 10px 1px;
-    display:inline-block;
+   
     font-size: 20px;
-    
+    display: flex;
+    justify-content: center;
+    width: fit-content;
+    margin: 0 auto;
 
     
-}.early p{
+}.early span{
 color:#30B868;
 }
 
